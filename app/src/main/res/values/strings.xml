@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CyclePortFinder</string>
+    <string name="toast_requires_permission">This application requires permission %s</string>
+</resources>
